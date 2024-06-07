@@ -1800,7 +1800,7 @@ AddLanguage('EN','english',{
 	"Lose a random building.": "/",
 	"No buildings to improve!": "/",
 	"Backfired, but no buildings to destroy!": "/",
-	"A new %1<br>bursts out of the ground.": "/",
+	"A new %1<br>explodes into existence!!!": "/",
 	"One of your %1<br>explodes out of existence!": "/",
 	"Haggler's Charm": "/",
 	"Upgrades are %1% cheaper for 1 minute.": "/",
