@@ -641,7 +641,7 @@ AddLanguage('EN','english',{
 		"We're nice grandmas.",
 		"Indentured servitude.",
 		"Come give grandma a kiss.",
-		"Why don't you visit more often?",
+		"look behind you :)",
 		"Call me..."
 	],
 	"Ticker (threatening grandma)": [
@@ -659,15 +659,15 @@ AddLanguage('EN','english',{
 		"It thought we would go away by selling us. How quaint.",
 		"I can smell your rotten cookies."
 	],
-	"Ticker (grandmas return)": [
-		"shrivel",
-		"writhe",
-		"throb",
-		"gnaw",
-		"We will rise again.",
-		"A mere setback.",
-		"We are not satiated.",
-		"Too late."
+	"Ticker ()": [
+		"you will blow up",
+		"Where were you on the 17th of may at 3:00 o clock at night",
+		"your mum hacked this website to say GET OFFFFFF
+		"banana cookie",
+		"your a Micropachycephalosaurus",
+		"monkey",
+		"among us ඩ",
+		"purple cookie"
 	],
 	"Ticker (grandma invasion start)": [
 		"millions of old ladies reported missing!",
